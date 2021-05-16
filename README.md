@@ -1,16 +1,23 @@
-### Hi there 👋
+### Come in, stay awhile!
 
-<!--
-**sdsmith/sdsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems engineer whose just trying to write some code. I like building from scratch, bit twiddling, and making an impact.
 
-Here are some ideas to get you started:
+### What I'm up too
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Inevitably out of date, ofc
+
+Learning:
+- Game engine development
+- Cross platform app development
+- DVORAK (take care of your hands 🙏)
+
+Current projects:
+- [Game engine](https://github.com/sdsmith/rtek)
+- A [C++ standard library done my way](https://github.com/sdsmith/sdslib-cpp) (final result not guaranteed; may be best to take the highway)
+- Blog
+- Home Network
+
+### Internet Places
+- [Blog](https://rocksthinkpoorly.com/)
+- [LinkedIn](linkedin.com/in/stewartdrydensmith)
+- [Stackoverflow](https://stackoverflow.com/users/3693388/stewart-smith)
