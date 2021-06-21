@@ -1,5 +1,3 @@
-### Come in, stay awhile!
-
 I'm a systems engineer whose just trying to write some code. I like building from scratch, bit twiddling, and making an impact.
 
 ### What I'm up too
