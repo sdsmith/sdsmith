@@ -1,13 +1,6 @@
-I'm a systems engineer whose just trying to write some code. I like building from scratch, bit twiddling, and making an impact.
+Systems engineer whose just trying to write code. I like building from scratch and bit twiddling.
 
 ### What I'm up too
-
-> Inevitably out of date, ofc
-
-Learning:
-- Game engine development
-- Cross platform app development
-- DVORAK (take care of your hands 🙏)
 
 Current projects:
 - [Game engine](https://github.com/sdsmith/rtek)
